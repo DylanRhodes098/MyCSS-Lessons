@@ -1,0 +1,35 @@
+body {
+    background-color:black;
+    line-height:normal;
+}
+
+h1 {
+    font-family:monospace;
+    color:white;
+}
+
+hr {
+    color:white;
+}
+
+ul {
+    color:white;
+}
+
+p{
+    color:white;
+    line-height:50px
+}
+
+.box1 {
+    border:double;
+    border-radius: 10px;
+    color: white;
+    background-color:blue;
+    text-align:center;
+}
+
+a {
+    text-decoration:none;
+    color:red
+}
