@@ -1,0 +1,20 @@
+Body{
+    background-color:orangered
+}
+
+.h1{
+    color:white;
+    text-transform:uppercase;
+    letter-spacing: 3px;
+
+}
+
+.div{
+    border:double;
+    border-radius:5px;
+    Border-color:white
+    padding:10px;
+    text-transform:capitalize;
+    letter-spacing:4px;
+    box-shadow: 2px 2px 2px 2px grey;
+}
