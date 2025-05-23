@@ -1,0 +1,10 @@
+div {
+    border: 5px dashed blue;
+    height: 60px;
+    width: 30 px;
+    background-color:rgb(209, 136, 136);
+    padding: 60px;
+    margin: 30px;
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
