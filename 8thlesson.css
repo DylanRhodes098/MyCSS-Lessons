@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/bg-size-cover.png");
+    background-size:600px;
+    background-repeat:no-repeat;
+    position:absolute;
+    Top:400px;
+    left:60px
+}
+
+.background{
+    height:500px;
+    width:500px;
+    background-image: url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/bg-size-cover.png");
+    background-size:contain;
+    background-repeat:no-repeat;
+    color:white;
+    text-align:center;
+    line-height:300px;
+}
