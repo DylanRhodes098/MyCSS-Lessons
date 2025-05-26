@@ -1,0 +1,28 @@
+body{
+    background-color:black;
+    color:white;
+}
+
+.background{
+    height:300px;
+    width:600px;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1631543879420-L2AEERO82XWLK5YQ9W6Z/invite+Image.png");
+    background-size: contain;
+    background-repeat:no-repeat;
+    background-position:center;
+    display:
+    position:absolute;
+    left:600px;
+
+
+}
+
+.button{
+    background-color:grey
+    color:white;
+    cursor:not-allowed;
+}
+
+.P1{
+    visibility:hidden;
+}
