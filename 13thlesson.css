@@ -1,0 +1,54 @@
+* {
+    border-sizing:500px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:darkslategrey;
+    max-width:500px;
+    text-align:center;
+}
+
+h1 {
+    font-style:italic;
+    text-shadow:2px 2px 8px white;
+    color:white;
+    font-weight:lighter;
+}
+
+.text-box {
+    width:300px;
+    border:solid;
+    border-width:0.5px;
+    border-color:lightgrey;
+    border-radius:3px;
+    box-shadow:2px 2px 8px white;
+    font-style:italic;
+    text-shadow:2px 2px 8px white;
+    color:white;
+    font-weight:lighter;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.hi {
+    width:200px;
+    height:50px;
+    border:double;
+    border-color:white;
+    border-radius:5px;
+    box-shadow:2px 2px 8px white;
+    color:white;
+    font-style:italic;
+    font-weight:lighter;
+    padding:5px;
+    overflow:scroll;
+    cursor:pointer;
+    transition:border-color 0.9s ease;
+}
+
+.hi:hover {
+    border-color:yellow;
+}
+
+p {
+    outline:dashed;
+}
